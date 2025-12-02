@@ -34,3 +34,8 @@ Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
 
+## Informacion grafica del repositorio en formato reducido
+
+- 2790f97 (HEAD -> rama1_adrianRosel, github/main, rama2_adrianRosel, main) Añadir readme a sus ficheros correspondientes
+- 877869d (gitlab/main) Subir ficheros README al repositorio remoto en gitlab
+- da9424f (origin/main) subir ficheros a un repositorio publico en GitHub
