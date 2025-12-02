@@ -25,3 +25,15 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Remotos configurados en el repositorio 
+
+PS C:\Users\adrian.rosel\Desktop\proyecto-examen1_2863208\backend> git remote -v
+GitLab  https://gitlab.com/adrianrosel/backend.git (fetch)
+GitLab  https://gitlab.com/adrianrosel/backend.git (push)
+github  https://github.com/adrianrosel/backend.git (fetch)
+github  https://github.com/adrianrosel/backend.git (push)
+gitlab  https://gitlab.com/adrianrosel/proyecto-examen.git (fetch)
+gitlab  https://gitlab.com/adrianrosel/proyecto-examen.git (push)
+origin  https://github.com/adrianrosel/proyecto-examen.git (fetch)
+origin  https://github.com/adrianrosel/proyecto-examen.git (push)
